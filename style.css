@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.butt{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
+
+.bpas{
+    width: 17%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 15.5px;
+}
